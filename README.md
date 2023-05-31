@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wilson Alzate Pineda</h1>
+<h1 align="center">Hi, I'm Wilson Alzate Pineda</h1>
 <h3 align="center">Front-end developer | Web page layaout | HTML | CSS | JavaScript | React | Project Manager</h3>
 
 <!-- 
