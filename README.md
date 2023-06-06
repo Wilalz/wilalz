@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Wilson</h1>
 <h3 align="center">Front-end developer | Web page layaout | HTML | CSS | JavaScript | React | Project Manager</h3>
 
-<!-- 
+
 ## contador de visitas
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilalz&label=Profile%20views&color=0e75b6&style=flat" alt="wilalz" /> </p>
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
