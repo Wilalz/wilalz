@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wilson</h1>
-<h3 align="center">Front-end developer | Web page layaout | HTML | CSS | JavaScript | React | Project Manager</h3>
+<h3 align="center">Data Analyst | Power BI | Python | SQL | Front-end developer | Web page layaout | React | Project Manager</h3>
 
 <!-- 
 ## contador de visitas
